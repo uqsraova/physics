@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-5915-6120"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : "https://www.scopus.com/results/savedList.uri?sort=plfdt-f&listId=65071285&listTypeValue=Docs&src=s&imp=t&sid=1d683e6c0edc3f6307e0b03fa40ef488&sot=sl&sdt=sl&sl=0&origin=savedlist&txGid=38a6ccf325e4e7726e9ef0eb5bfd76fe"
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
